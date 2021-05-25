@@ -1,1 +1,1 @@
-"Testes com o Java Swing" 
+"Estudos sobre conceitos básicos em Java"
